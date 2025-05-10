@@ -1,16 +1,30 @@
 # simrs_telmed
 
-A new Flutter project.
+Welcome to the **simrs_telmed** Flutter project — a telemedicine app aimed at improving remote healthcare services.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Before You Start
 
-A few resources to get you started if this is your first Flutter project:
+> ⚠️ **READ THIS CAREFULLY BEFORE DOING ANY DEVELOPMENT**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+After cloning the project, **you must ensure** the following tools are up to date on your machine:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- ✅ Latest **Android Studio**
+- ✅ Latest **Flutter SDK**
+- ✅ Latest **Java JDK**
+
+If you're unsure, please confirm with the team lead before proceeding.
+
+---
+
+## 🚀 Getting Started
+
+### 🔄 Cloning the Repository with Visual Studio Code
+
+1. Open **Visual Studio Code**.
+2. Go to **View > Command Palette** or press `Ctrl + Shift + P`.
+3. Type and select **"Git: Clone"**.
+4. Paste the repository URL: <repo-url>
+5. Choose a folder location where you want to store the project.
+6. After cloning, when prompted, click **"Open"** to open the project in VS Code.
